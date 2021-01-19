@@ -6,7 +6,7 @@
 ## Building
 
 Either:
-- Use `go get github.com/vulppine/cursed-fox-bot/bot` in order to get the code, and then put import "github.com/vulppine/cursed-fox-bot/bot" in your code
+- Use `go get github.com/vulppine/cursed-fox-bot/bot` in order to get the code, and then put `import "github.com/vulppine/cursed-fox-bot/bot"` in your code
 - Use `go install github.com/vulppine/cursed-fox-bot` to install it as an application.
 
 ---
